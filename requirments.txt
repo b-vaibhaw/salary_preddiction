@@ -1,7 +1,8 @@
-joblib
 streamlit
+joblib
 panda
 numpy
 matplotlib
 seaborn
 sklearn
+
